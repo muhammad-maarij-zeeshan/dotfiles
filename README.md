@@ -1,2 +1,2 @@
 # DOTFILES.
-> This repo contains some basic dotfiles.
+> This repo contains some basic dotfiles
